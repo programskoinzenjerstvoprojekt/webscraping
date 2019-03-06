@@ -1,0 +1,16 @@
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\ScraperTest.exe.config
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\ScraperTest.exe
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\ScraperTest.pdb
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\System.Net.Http.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\obj\Debug\ScraperTest.csprojAssemblyReference.cache
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\obj\Debug\ScraperTest.csproj.CoreCompileInputs.cache
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\obj\Debug\ScraperTest.csproj.CopyComplete
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\obj\Debug\ScraperTest.exe
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\obj\Debug\ScraperTest.pdb
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Matija Barosevic\Desktop\ScraperTest\ScraperTest\bin\Debug\HtmlAgilityPack.xml
